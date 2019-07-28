@@ -1,0 +1,1 @@
+choiceArray = (T[]) choices.toArray();
